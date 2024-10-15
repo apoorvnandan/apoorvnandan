@@ -1,5 +1,5 @@
 ### What I'm upto:
-- I am building a tensor library from scratch [tensor.h](https://github.com/apoorvnandan/tensor.h) and [lilgrad](https://github.com/apoorvnandan/lilgrad)
+- I am building a tensor library from scratch ([tensor.h](https://github.com/apoorvnandan/tensor.h), [lilgrad](https://github.com/apoorvnandan/lilgrad))
 - I am building a ML powered product analytics tool - [Crunch](https://www.crunchit.ai/)
 
 ### What I have worked on:
