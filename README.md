@@ -1,5 +1,5 @@
 ### What I'm upto:
-- I am training smallish (<4B params) language models on heavily curated datasets to investigate emergence of different skillsets like coherence, logical reasoning, coding ability etc.
+- I am building a tensor library from scratch [tensor.h](https://github.com/apoorvnandan/tensor.h) and [lilgrad](https://github.com/apoorvnandan/lilgrad)
 - I am building a ML powered product analytics tool - [Crunch](https://www.crunchit.ai/)
 
 ### What I have worked on:
